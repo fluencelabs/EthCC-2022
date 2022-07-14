@@ -32,7 +32,7 @@ For a quick overview, see our [Hacking On Fluence](https://fluencenetwork.notion
 
 ## Rules
 
-See [ETHGlobal Rules](https://www.notion.so/Event-Rules-Code-of-Conduct-792bf3decc2b40d491aceca7caf8e4c6) for details.
+See [Devpost Rules](https://ethcchack2022.devpost.com/rules) for details.
 
 ## Resources
 
